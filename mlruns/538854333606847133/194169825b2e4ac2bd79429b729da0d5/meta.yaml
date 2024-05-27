@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jsandon/Desktop/MLOPS/Mlops%20ZoomCamp%20Cohorts%202024/mlruns/538854333606847133/194169825b2e4ac2bd79429b729da0d5/artifacts
+end_time: 1716840091618
+entry_point_name: ''
+experiment_id: '538854333606847133'
+lifecycle_stage: active
+run_id: 194169825b2e4ac2bd79429b729da0d5
+run_name: polite-stork-155
+run_uuid: 194169825b2e4ac2bd79429b729da0d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716840043607
+status: 3
+tags: []
+user_id: jsandon

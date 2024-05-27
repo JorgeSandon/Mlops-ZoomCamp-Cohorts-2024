@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/jsandon/Desktop/MLOPS/Mlops%20ZoomCamp%20Cohorts%202024/mlruns/538854333606847133
+creation_time: 1716840041070
+experiment_id: '538854333606847133'
+last_update_time: 1716840041070
+lifecycle_stage: active
+name: nyc-taxi-experiment
